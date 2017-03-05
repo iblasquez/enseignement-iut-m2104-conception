@@ -8,6 +8,10 @@
 
 
 
+## On en discute ?
+Pour les discussions, c'est par [là](https://github.com/iblasquez/enseignement-iut-m2104/issues)  
+Pour les propositions de contenu, de modification par [ici](https://github.com/iblasquez/enseignement-iut-m2104/pulls)  
+Et bien sûr, n'hésitez pas à personnaliser vos messages avec des [emojis](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :smile:
 
 Licence
 -------
