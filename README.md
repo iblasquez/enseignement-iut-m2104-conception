@@ -4,7 +4,8 @@
 ## Supports de cours
 
 - [Introduction à la Modélisation par Objets : UML à la rescousse !](slides/1_IntroductionModelisationObjet_UML.pdf)  
-- [Introduction à la Modélisation par Objets : A la découverte des objets et des classes](slides/2_IntroductionModelisationObjet_DecouverteClassesObjet.pdf)  
+- [Introduction à la Modélisation par Objets : A la découverte des objets et des classes](slides/2_IntroductionModelisationObjet_DecouverteClassesObjet.pdf)   
+- [Diagramme de classes](slides/3_DiagrammesDeClasses.pdf)  
 
 
 
