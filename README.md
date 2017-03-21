@@ -10,6 +10,13 @@
 - [Diagramme d'états](slides/5_DiagrammesEtat.pdf) 
 
 
+
+## Enoncés de TD
+
+- TD n° 1 : [Diagramme de classes](TD/M2104_TD1_DiagrammeClasses.pdf)
+- TD n° 2 : [Diagramme de classes sur un cas réel : le langage Gherkin](https://github.com/iblasquez/tuto_bdd_gherkin)    
+
+
 ## Enoncés de TP
 
 - TP n° 1 : [Prise en main d’outils pour la génération de diagrammes UML](TP/M2104_TP1_OutilsUML.md)  
