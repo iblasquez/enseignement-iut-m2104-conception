@@ -8,6 +8,7 @@
 - [Diagramme de classes](slides/3_DiagrammesDeClasses.pdf)  
 - [Diagramme de séquences](slides/4_DiagrammesDeSequence.pdf) 
 - [Diagramme d'états](slides/5_DiagrammesEtat.pdf) 
+- [Introduction à git : un logiciel de gestion de versions décentralisé (DVCS)](slides/6_GestionnaireDeVersion_Git.pdf)
 
 
 
@@ -24,7 +25,7 @@
 ## On en discute ?
 Pour les discussions, c'est par [là](https://github.com/iblasquez/enseignement-iut-m2104/issues)  
 Pour les propositions de contenu, de modification par [ici](https://github.com/iblasquez/enseignement-iut-m2104/pulls)  
-Et bien sûr, n'hésitez pas à personnaliser vos messages avec des [emojis](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :smile:
+Et bien sûr, n'hésitez pas à personnaliser vos messages avec des [emo(jis](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :smile:
 
 Licence
 -------
