@@ -20,7 +20,8 @@
 
 ## Enoncés de TP
 
-- TP n° 1 : [Prise en main d’outils pour la génération de diagrammes UML](TP/M2104_TP1_OutilsUML.md)  
+- TP n° 1 : [Prise en main d’outils pour la génération de diagrammes UML](TP/M2104_TP1_OutilsUML.md) 
+- TP n° 2 : [Prise en main d’outils pour le developpement](TP/M2104_TP2_OutilsDeveloppement.md)  
 
 ## On en discute ?
 Pour les discussions, c'est par [là](https://github.com/iblasquez/enseignement-iut-m2104/issues)  
