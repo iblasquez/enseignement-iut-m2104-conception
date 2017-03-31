@@ -15,7 +15,9 @@
 ## Enoncés de TD
 
 - TD n° 1 : [Diagramme de classes](TD/M2104_TD1_DiagrammeClasses.pdf)
-- TD n° 2 : [Diagramme de classes sur un cas réel : le langage Gherkin](https://github.com/iblasquez/tuto_bdd_gherkin)    
+- TD n° 2 : [Diagramme de classes sur un cas réel : le langage Gherkin](https://github.com/iblasquez/tuto_bdd_gherkin)  
+- TD n° 3 : [Diagramme de séquences](TD/M2104_TD3_DiagrammeSequences.pdf) 
+
 
 
 ## Enoncés de TP
