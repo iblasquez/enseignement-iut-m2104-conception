@@ -9,7 +9,8 @@
 - [Diagramme de séquences](slides/4_DiagrammesDeSequence.pdf) 
 - [Diagramme d'états](slides/5_DiagrammesEtat.pdf) 
 - [Introduction à git : un logiciel de gestion de versions décentralisé (DVCS)](slides/6_GestionnaireDeVersion_Git.pdf)
-- [Quid du Test dans un développement logiciel ?](slides/7_Tests.pdf)
+- [Quid du Test dans un développement logiciel ?](slides/7_Tests.pdf)  
+- [Sensibilisation aux bonnes pratiques de la programmation (qualité logicielle)](slides/8_QualiteLogicielle_CleanCode.pdf) 
 
 
 
