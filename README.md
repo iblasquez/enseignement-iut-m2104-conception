@@ -24,13 +24,15 @@
 
 ## Enoncés de TP
 
-- TP n° 1 : [Prise en main d’outils pour la génération de diagrammes UML](TP/M2104_TP1_OutilsUML.md) 
-- TP n° 2 : [Prise en main d’outils pour le developpement](TP/M2104_TP2_OutilsDeveloppement.md)  
+- TP n° 1 : [Prise en main d'outils pour la génération de diagrammes UML](TP/M2104_TP1_OutilsUML.md) 
+- TP n° 2 : [Prise en main d'outils pour le developpement](TP/M2104_TP2_OutilsDeveloppement.md)  
+- TP n° 3 : [Découverte de git](TP/M2104_TP3_Git_Egit.md)
+
 
 ## On en discute ?
 Pour les discussions, c'est par [là](https://github.com/iblasquez/enseignement-iut-m2104/issues)  
 Pour les propositions de contenu, de modification par [ici](https://github.com/iblasquez/enseignement-iut-m2104/pulls)  
-Et bien sûr, n'hésitez pas à personnaliser vos messages avec des [emo(jis](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :smile:
+Et bien sûr, n'hésitez pas à personnaliser vos messages avec des [emojis](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :smile:
 
 Licence
 -------
