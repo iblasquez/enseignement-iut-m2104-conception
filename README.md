@@ -1,5 +1,6 @@
 # Conception Orientée Objet
 ---
+Bases de la conception orientée objet (module M2104) : conception classique & émergente, bonnes pratiques, TDD
 
 ## Supports de cours
 
@@ -10,17 +11,18 @@
 - [Diagramme d'états](slides/5_DiagrammesEtat.pdf) 
 - [Introduction à git : un logiciel de gestion de versions décentralisé (DVCS)](slides/6_GestionnaireDeVersion_Git.pdf)
 - [Quid du Test dans un développement logiciel ?](slides/7_Tests.pdf)  
-- [Sensibilisation aux bonnes pratiques de la programmation (qualité logicielle)](slides/8_QualiteLogicielle_CleanCode.pdf) 
+- [Sensibilisation aux bonnes pratiques (qualité logicielle)](slides/8_QualiteLogicielle_CleanCode.pdf) 
 
 
 
 ## Enoncés de TD
 
-- TD n° 1 : [Diagramme de classes](TD/M2104_TD1_DiagrammeClasses.pdf)
+- TD n° 1 : [Diagramme de classes](TD/M2104_DiagrammeClasses.pdf)
 - TD n° 2 : [Diagramme de classes sur un cas réel : le langage Gherkin](https://github.com/iblasquez/tuto_bdd_gherkin)  
-- TD n° 3 : [Diagramme de séquences](TD/M2104_TD3_DiagrammeSequences.pdf) 
-
-
+- TD n° 3 : [Diagramme de séquences](TD/M2104_DiagrammeSequences.pdf) 
+- TD n° 4 : [Diagramme de séquences pour la conception](TD/M2104_DiagrammeSequencePourLaConception.pdf) 
+- TD n° 5 : [Atelier #tddlego : Sensibilisation aux bonnes pratiques techniques du Software Craftsmanship](https://github.com/iblasquez/atelier-bonnes-pratiques-tdd-lego) 
+- TD n° 6 : [Kata Nombre Romain (s’entrainer au TDD)](TD/M2104_KataNombreRomain) 
 
 ## Enoncés de TP
 
@@ -29,6 +31,9 @@
 - TP n° 3 : [Découverte de git](TP/M2104_TP3_Git_Egit.md)
 - A partir du TP n° 4 : [Mini projet Space Invaders en TDD](https://github.com/iblasquez/tdd_spaceInvaders)
 
+## Module M2104 (Extrait du [PPN Informatique DUT Informatique](https://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf))
+
+![M2104 : Extrait PNN DUT Informatique](ressources/M2104_PPN_DUTInformatique.png)
 
 ## On en discute ?
 Pour les discussions, c'est par [là](https://github.com/iblasquez/enseignement-iut-m2104/issues)  
