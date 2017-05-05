@@ -22,7 +22,7 @@ Bases de la conception orientée objet (module M2104) : conception classique & �
 - TD n° 3 : [Diagramme de séquences](TD/M2104_DiagrammeSequences.pdf) 
 - TD n° 4 : [Diagramme de séquences pour la conception](TD/M2104_DiagrammeSequencePourLaConception.pdf) 
 - TD n° 5 : [Atelier #tddlego : Sensibilisation aux bonnes pratiques techniques du Software Craftsmanship](https://github.com/iblasquez/atelier-bonnes-pratiques-tdd-lego) 
-- TD n° 6 : [Kata Nombre Romain (s’entrainer au TDD)](TD/M2104_KataNombreRomain.md) 
+- TD n° 6 : [Kata Nombre Romain (s’entrainer au TDD)](TD/M2104_KataNombreRomain.pdf) 
 
 ## Enoncés de TP
 
