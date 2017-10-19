@@ -31,6 +31,11 @@ Bases de la conception orientée objet (module M2104) : conception classique & �
 - TP n° 3 : [Découverte de git](TP/M2104_TP3_Git_Egit.md)
 - A partir du TP n° 4 : [Mini projet Space Invaders en TDD](https://github.com/iblasquez/tdd_spaceInvaders)
 
+## Aller plus loin... 
+*Ce module sera complété au prochain semestre par un [module de Conception et Programmation Objet avancées (M3105) construit autour des bonnes pratiques, des doublures de tests, des principes SOLID et des Design Patterns.](https://github.com/iblasquez/enseignement-iut-m3105-conception-avancee)*
+
+
+
 ## Extrait du [PPN Informatique DUT Informatique](https://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf)
 
 ![M2104 : Extrait PNN DUT Informatique](ressources/M2104_PPN_DUTInformatique.png)
