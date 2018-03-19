@@ -14,6 +14,10 @@ Bases de la conception orientée objet (module M2104) : conception classique & �
 - [Sensibilisation aux bonnes pratiques (qualité logicielle)](slides/8_QualiteLogicielle_CleanCode.pdf) 
 
 
+## Prise en main d'outils pour la génération de diagrammes UML
+
+Vous trouverez dans le dépôt [https://github.com/iblasquez/tuto_ModelisationUML](https://github.com/iblasquez/tuto_ModelisationUML), un ensemble de tutoriels et de liens autour d'outils permettant la génération de diagrammes UML.
+
 
 ## Enoncés de TD
 
@@ -26,13 +30,16 @@ Bases de la conception orientée objet (module M2104) : conception classique & �
 
 ## Enoncés de TP
 
-- TP n° 1 : [Prise en main d'outils pour la génération de diagrammes UML](TP/M2104_TP1_OutilsUML.md) 
-- TP n° 2 : [Prise en main d'outils pour le developpement](TP/M2104_TP2_OutilsDeveloppement.md)  
-- TP n° 3 : [Découverte de git](TP/M2104_TP3_Git_Egit.md)
+- TP n° 1 : [Prise en main d'outils pour le developpement](TP/M2104_TP_OutilsDeveloppement.md)  
+- TP n° 2 : [Prise en main de git en ligne de commande](TP/M2104_TP_Git_LigneCommande.md) 
+- TP n° 3 : [Découverte de git](TP/M2104_TP_Git_Egit.md)
 - A partir du TP n° 4 : [Mini projet Space Invaders en TDD](https://github.com/iblasquez/tdd_spaceInvaders)
 
+
+Anciennement, un TP était consacré à la [Prise en main d'outils pour la génération de diagrammes UML](TP/M2104_TP_OutilsUML.md)... 
+
 ## Aller plus loin... 
-*Ce module sera complété au prochain semestre par un [module de Conception et Programmation Objet avancées (M3105) construit autour des bonnes pratiques, des doublures de tests, des principes SOLID et des Design Patterns.](https://github.com/iblasquez/enseignement-iut-m3105-conception-avancee)*
+*Ce module sera complété au prochain semestre par un [module de Conception et Programmation Objet avancées (M3105) construit autour des bonnes pratiques, des doublures de test, des principes SOLID et des Design Patterns.](https://github.com/iblasquez/enseignement-iut-m3105-conception-avancee)*
 
 
 
