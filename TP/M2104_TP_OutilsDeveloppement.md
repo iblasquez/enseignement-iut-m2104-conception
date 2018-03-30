@@ -46,7 +46,7 @@ Rendez-vous **[ici](https://github.com/iblasquez/tutoriel_SonarQube/blob/master/
 
 A l'aide de **Source Code Word Cloud Generator** disponible [ici](https://sourcecodecloud.codeplex.com) et du contenu du fichier `JavaBlacklist.txt` disponible [là]( https://github.com/iblasquez/enseignement-iut-m2104/tree/master/ressources/JavaBlacklist.txt) dans ressources du dépôt [enseignement-iut-m2104](https://github.com/iblasquez/enseignement-iut-m2104), vous pouvez facilement générer le nuage de mots du code source de votre projet.
 
-**[Avril 2018]** : Vous pouvez récupérer l'archive de **Source Code Word Cloud Generator** Word Cloud Generator [ici]() pour disposer du **'.exe'** et pouvoir lancer cette application.
+**[Avril 2018]** : Vous pouvez récupérer une archive zip de **Source Code Word Cloud Generator** dans les **`ressources`** de ce dépôt c-a-d [ici](https://github.com/iblasquez/enseignement-iut-m2104-conception/tree/master/ressources). Cette arhcive dispose d'un **'.exe'** qui permet de lancer l'application.
 
 Pour cela, une fois l'application du [Source Code Word Cloud Generator](https://sourcecodecloud.codeplex.com) lancée, placez-vous dans l'explorateur sur le répertoire de votre workspace portant le nom du projet à analyser, dans votre cas ce devrait être **`refactoringexemple`** pour commencer et cliquez sur le bouton **`Generate`**.
 Vous venez de générer le nuage de mots relatif au projet `refactoringexemple`.
