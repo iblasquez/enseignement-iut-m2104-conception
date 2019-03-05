@@ -38,6 +38,12 @@ Vous trouverez dans le dépôt [https://github.com/iblasquez/tuto_ModelisationUM
 
 Anciennement, un TP était consacré à la [Prise en main d'outils pour la génération de diagrammes UML](TP/M2104_TP_OutilsUML.md)... 
 
+
+## S'entraîner de manière ludique à modéliser à l'aide d'UML...
+
+* [**UML PICTIONARY® : une phrase en un diagramme UML**](http://people.irisa.fr/Francois.Schwarzentruber/mit2_cvfp_2012/uml_pictionary_cards.zip)   (jeu créé par l'équipe de JM. Jezequel à l'IRISA Rennes)S
+
+
 ## Aller plus loin... 
 *Ce module sera complété au prochain semestre par un [module de Conception et Programmation Objet avancées (M3105) construit autour des bonnes pratiques, des doublures de test, des principes SOLID et des Design Patterns.](https://github.com/iblasquez/enseignement-iut-m3105-conception-avancee)*
 
