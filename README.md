@@ -41,7 +41,7 @@ Anciennement, un TP était consacré à la [Prise en main d'outils pour la gén�
 
 ## S'entraîner de manière ludique à modéliser à l'aide d'UML...
 
-* [**UML PICTIONARY® : une phrase en un diagramme UML**](http://people.irisa.fr/Francois.Schwarzentruber/mit2_cvfp_2012/uml_pictionary_cards.zip)   (jeu créé par l'équipe de JM. Jezequel à l'IRISA Rennes)S
+* [**UML PICTIONARY® : une phrase en un diagramme UML**](http://people.irisa.fr/Francois.Schwarzentruber/mit2_cvfp_2012/uml_pictionary_cards.zip)   (jeu créé par l'équipe de JM. Jezequel à l'IRISA Rennes)
 
 
 ## Aller plus loin... 

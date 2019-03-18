@@ -39,7 +39,11 @@ Pour le cadre de ce TP, ne faites que la page sur laquelle vous vous trouvez c'e
 
 ### 5. Prise en main de [SonarLint](http://www.sonarlint.org/) (une aide à la qualité de code)
 
-Rendez-vous **[ici](https://github.com/iblasquez/tutoriel_SonarQube/blob/master/Analyse_SonarLintEclipse.md)** dans le dépôt [Back2Basics_Developpement](https://github.com/iblasquez/Back2Basics_Developpement)  
+Rendez-vous **[ici](https://github.com/iblasquez/tutoriel_SonarQube/blob/master/Analyse_SonarLintEclipse.md)** dans le dépôt [Back2Basics_Developpement](https://github.com/iblasquez/Back2Basics_Developpement)
+
+Remarque : Installer un linter est une bonne pratique de programmation.
+Il existe des linters dans de nombreux langages. Vous pouvez trouver une liste de linters [ici](https://promyze.com/wp-content/uploads/cartographie-de_23365438-5.png) sous forme d'infographie ou [là](https://promyze.com/blog-liste-linters-open-source-mise-jour-juillet-2018).
+
 
 
 ### 6. Génération d'un nuage de mots du code source (pour un focus sur l'intention du code)
