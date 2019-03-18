@@ -63,6 +63,13 @@ Quid du métier et de l’intention du code dans ce projet ?
 Remarque : Une solution alternative à **Source Code WorldCloud Generator** est le projet Kumo qui est disponible sur github à l'adresse suivante : [https://github.com/kennycason/kumo](https://github.com/kennycason/kumo). C'est une API Java qui permet de créer et personnaliser son propre World Cloud. Pour savoir comment l'utiliser, consulter les nombreux exemples donnés dans le README de ce dépôt.
 
 
+### 7. Pour les plus rapides ...  
+
+Sur le projet **`Pokemon`** que vous développez dans le module M2103 :  
+- faire un **diagramme de classes** de votre code à l'aide d'**ObjectAid UML Explorer**.    
+- générer le **nuage de mots du code source** à l'aide de **Source Code Word Cloud Generator**.    
+- **analyser votre code** avec **SonarLint**.  
+
 
 
 ## Commentaires, remarques et suggestions
