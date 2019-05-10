@@ -26,8 +26,8 @@ Vous trouverez dans le dépôt [https://github.com/iblasquez/tuto_ModelisationUM
 - TD n° 3 : [Ebauche de diagramme de classes à partir de maquettes : les événements du LimouziCoDev](TD/M2104_DiagrammeClasses_LimouziCoDev.pdf)  
 - TD n° 4 : [Diagramme de séquences](TD/M2104_DiagrammeSequence.pdf) 
 - TD n° 5 : [Diagramme de séquences pour la conception](TD/M2104_DiagrammeSequencePourLaConception.pdf) 
-- TD n° 6 : [Diagramme de classes,Génération de code & Tests (Partie n°1)](TD/M2104_TD_ModeleCodeTest_Partie1.pdf) 
-- TD n° 7 : [Diagramme de classes,Génération de code & Tests (Partie n°2)](TD/M2104_TD_ModeleCodeTest_Partie2.pdf) 
+- TD n° 6 : [Diagramme de classes,Génération de code & Tests (Partie n°1)](TD/M2104_ModeleCodeTest_Partie1.pdf) 
+- TD n° 7 : [Diagramme de classes,Génération de code & Tests (Partie n°2)](TD/M2104_ModeleCodeTest_Partie2.pdf) 
 
 Mais aussi :    
 
